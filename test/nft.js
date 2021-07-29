@@ -48,6 +48,5 @@ contract('NFT', async (accounts) => {
       );
     });
 
-  })
-
-})
+  });
+});
